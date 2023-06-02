@@ -13,7 +13,7 @@
 13.What are pure and impure pipes.    
 14.Explain custom pipe and custom directive.    
 15.Can an observable to executed if it is not subscribed?    
-16.Explain about ngZone. 
+16.Explain about ngZone?     
 17.How communication can be achieved between two unrelated components?     
 18.Can angular application have more than 1 root module?           
 19.What is view encapsulation in angular?  
