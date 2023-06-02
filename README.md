@@ -2,7 +2,7 @@
 2.Can we use ngIf and ngFor both together?    
 3.Explain about dynamic component.       
 4.How can we get full response in an http call.  
-5.What is the difference between Promise and Observable. 
+5.What is the difference between Promise and Observable? 
 6.How can we achieve parallel http calls in angular?              
 7.How can we do some operation in common with the http response when more than 1 http call is made in the application?      
 8.Can we use more than one httpInterceptor in an application?  
