@@ -9,10 +9,10 @@
 9.Which life cycle method is called when html template is ready?  
 10.How to cancel a promise?  
 11.What is @HostListener decorative?  
-12.Explain about pipes. 
-13.What are pure and impure pipes. 
-14.Explain custom pipe and custom directive. 
-15.Can an observable to executed if it is not subscribed?  
+12.Explain about pipes.   
+13.What are pure and impure pipes.    
+14.Explain custom pipe and custom directive.    
+15.Can an observable to executed if it is not subscribed?    
 16.Explain about ngZone. 
 17.How communication can be achieved between two unrelated components. 
 18.Can angular application have more than 1 root module?  
