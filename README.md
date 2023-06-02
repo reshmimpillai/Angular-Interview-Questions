@@ -1,4 +1,4 @@
-Explain BootstrapModule
+Explain BootstrapModule.      
 Can we use ngIf and ngFor both together?
 Explain about dynamic component
 How can we get full response in an http call
